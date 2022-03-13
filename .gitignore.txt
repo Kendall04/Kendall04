@@ -1,0 +1,2 @@
+SolutionFW/FrontEnd/bin
+SolutionFW/FrontEnd/obj
