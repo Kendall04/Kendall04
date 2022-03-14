@@ -1,0 +1,13 @@
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.deps.json
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.runtimeconfig.json
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.runtimeconfig.dev.json
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\bin\Debug\netcoreapp3.1\BE.BS.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.csproj.AssemblyReference.cache
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.AssemblyInfoInputs.cache
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.AssemblyInfo.cs
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.csproj.CoreCompileInputs.cache
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.BS\obj\Debug\netcoreapp3.1\BE.BS.genruntimeconfig.cache

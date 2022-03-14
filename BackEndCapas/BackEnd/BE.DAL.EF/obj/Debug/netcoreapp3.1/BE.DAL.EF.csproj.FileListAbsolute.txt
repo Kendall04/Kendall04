@@ -1,0 +1,12 @@
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.deps.json
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.json
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.dev.json
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfoInputs.cache
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfo.cs
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.genruntimeconfig.cache
