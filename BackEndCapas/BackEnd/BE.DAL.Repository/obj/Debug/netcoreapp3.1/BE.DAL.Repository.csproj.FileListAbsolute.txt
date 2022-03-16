@@ -10,3 +10,9 @@ C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04
 C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.dll
 C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.pdb
 C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.genruntimeconfig.cache
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.csproj.AssemblyReference.cache
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.Repository\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.Repository\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.Repository\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.Repository\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.csproj.CopyComplete

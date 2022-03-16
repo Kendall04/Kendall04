@@ -10,3 +10,4 @@ C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04
 C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.dll
 C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.pdb
 C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.genruntimeconfig.cache
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.csproj.AssemblyReference.cache

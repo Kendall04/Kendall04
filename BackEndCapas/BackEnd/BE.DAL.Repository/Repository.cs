@@ -78,7 +78,7 @@ namespace BE.DAL.Repository
 
         public void RemoveRange(IEnumerable<T> t)
         {
-            dbContext.Set<T>().Remove(t);
+            dbContext.Set<T>().RemoveRange(t);
         }
 
         public IEnumerable<T> Search(Expression<Func<T, bool>> predicado)

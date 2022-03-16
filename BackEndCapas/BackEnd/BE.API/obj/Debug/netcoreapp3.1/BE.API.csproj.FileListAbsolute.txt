@@ -67,3 +67,13 @@ C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04
 C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\obj\Debug\netcoreapp3.1\BE.API.dll
 C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\obj\Debug\netcoreapp3.1\BE.API.pdb
 C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\obj\Debug\netcoreapp3.1\BE.API.genruntimeconfig.cache
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.BS.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.Repository.dll
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.BS.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.pdb
+C:\Users\kendall\Desktop\Diseno y Desarrollo de Sistemas J 6-9\sprint2\Kendall04\BackEndCapas\BackEnd\BE.API\bin\Debug\netcoreapp3.1\BE.DAL.Repository.pdb
